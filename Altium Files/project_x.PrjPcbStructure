@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Top.SchDoc|SheetNumber= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=Power|SchDesignator=Power|FileName=power.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_amplifier|SchDesignator=U_amplifier|FileName=amplifier.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=amplifier.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_esp32|SchDesignator=U_esp32|FileName=esp32.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=esp32.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_I2S_DAC|SchDesignator=U_I2S_DAC|FileName=I2S_DAC.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=I2S_DAC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
