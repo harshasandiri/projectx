@@ -1,0 +1,1 @@
+cmd='C:/Users/harsh/.espressif/tools/cmake/3.16.4/bin/cmake.exe;-DSDKCONFIG=E:/ESP32/a2dp_sink/sdkconfig;-DIDF_PATH=C:/Users/harsh/Desktop/esp-idf;-DIDF_TARGET=esp32;-DPYTHON_DEPS_CHECKED=1;-DPYTHON=python;-DEXTRA_COMPONENT_DIRS=C:/Users/harsh/Desktop/esp-idf/components/bootloader;-DLEGACY_INCLUDE_COMMON_HEADERS=;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'
