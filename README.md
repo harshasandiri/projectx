@@ -1,4 +1,4 @@
-# projectx (Rev .01)
+# Projectx (Rev .01)
 
 ESP32 based class D AMP module
 >Class-D Amplifier + DAC with a PCM interface + ESP32 ( Bluetooth A2DP-SINK + I2S)
